@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: b21f8e64cc79efb468a103e1f3fc222c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Keys and Icons Sprite Sheet_0
+    21300002: Keys and Icons Sprite Sheet_1
+    21300004: Keys and Icons Sprite Sheet_2
+    21300006: Keys and Icons Sprite Sheet_3
+    21300008: Keys and Icons Sprite Sheet_4
+    21300010: Keys and Icons Sprite Sheet_5
+    21300012: Keys and Icons Sprite Sheet_6
+    21300014: Keys and Icons Sprite Sheet_7
+    21300016: Keys and Icons Sprite Sheet_8
+    21300018: Keys and Icons Sprite Sheet_9
+    21300020: Keys and Icons Sprite Sheet_10
+    21300022: Keys and Icons Sprite Sheet_11
+    21300024: Keys and Icons Sprite Sheet_12
+    21300026: Keys and Icons Sprite Sheet_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Keys and Icons Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2790
+        width: 872
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2759
+        width: 447
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2334
+        width: 869
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2271
+        width: 434
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1868
+        width: 872
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1878
+        width: 428
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1393
+        width: 872
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1421
+        width: 440
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 924
+        width: 872
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 952
+        width: 443
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 464
+        width: 872
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 537
+        width: 252
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 872
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Keys and Icons Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 30
+        width: 529
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

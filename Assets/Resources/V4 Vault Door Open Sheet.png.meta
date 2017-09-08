@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 0d5c98fb33a56204bb136f9653761b91
+timeCreated: 1504224300
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: V4 Vault Door Open Sheet_0
+    21300002: V4 Vault Door Open Sheet_1
+    21300004: V4 Vault Door Open Sheet_2
+    21300006: V4 Vault Door Open Sheet_3
+    21300008: V4 Vault Door Open Sheet_4
+    21300010: V4 Vault Door Open Sheet_5
+    21300012: V4 Vault Door Open Sheet_6
+    21300014: V4 Vault Door Open Sheet_7
+    21300016: V4 Vault Door Open Sheet_8
+    21300018: V4 Vault Door Open Sheet_9
+    21300020: V4 Vault Door Open Sheet_10
+    21300022: V4 Vault Door Open Sheet_11
+    21300024: V4 Vault Door Open Sheet_12
+    21300026: V4 Vault Door Open Sheet_13
+    21300028: V4 Vault Door Open Sheet_14
+    21300030: V4 Vault Door Open Sheet_15
+    21300032: V4 Vault Door Open Sheet_16
+    21300034: V4 Vault Door Open Sheet_17
+    21300036: V4 Vault Door Open Sheet_18
+    21300038: V4 Vault Door Open Sheet_19
+    21300040: V4 Vault Door Open Sheet_20
+    21300042: V4 Vault Door Open Sheet_21
+    21300044: V4 Vault Door Open Sheet_22
+    21300046: V4 Vault Door Open Sheet_23
+    21300048: V4 Vault Door Open Sheet_24
+    21300050: V4 Vault Door Open Sheet_25
+    21300052: V4 Vault Door Open Sheet_26
+    21300054: V4 Vault Door Open Sheet_27
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2880
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2880
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 2880
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2400
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2400
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 2400
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1920
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1920
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1920
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1440
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1440
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1440
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 960
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 960
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 960
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 480
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 480
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 480
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 0
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: V4 Vault Door Open Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 0
+        width: 854
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

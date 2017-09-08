@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 097d0c0bf1c703a4398d040b70457be1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Red Lock Sprite Sheet 2_0
+    21300002: Red Lock Sprite Sheet 2_1
+    21300004: Red Lock Sprite Sheet 2_2
+    21300006: Red Lock Sprite Sheet 2_3
+    21300008: Red Lock Sprite Sheet 2_4
+    21300010: Red Lock Sprite Sheet 2_5
+    21300012: Red Lock Sprite Sheet 2_6
+    21300014: Red Lock Sprite Sheet 2_7
+    21300016: Red Lock Sprite Sheet 2_8
+    21300018: Red Lock Sprite Sheet 2_9
+    21300020: Red Lock Sprite Sheet 2_10
+    21300022: Red Lock Sprite Sheet 2_11
+    21300024: Red Lock Sprite Sheet 2_12
+    21300026: Red Lock Sprite Sheet 2_13
+    21300028: Red Lock Sprite Sheet 2_14
+    21300030: Red Lock Sprite Sheet 2_15
+    21300032: Red Lock Sprite Sheet 2_16
+    21300034: Red Lock Sprite Sheet 2_17
+    21300036: Red Lock Sprite Sheet 2_18
+    21300038: Red Lock Sprite Sheet 2_19
+    21300040: Red Lock Sprite Sheet 2_20
+    21300042: Red Lock Sprite Sheet 2_21
+    21300044: Red Lock Sprite Sheet 2_22
+    21300046: Red Lock Sprite Sheet 2_23
+    21300048: Red Lock Sprite Sheet 2_24
+    21300050: Red Lock Sprite Sheet 2_25
+    21300052: Red Lock Sprite Sheet 2_26
+    21300054: Red Lock Sprite Sheet 2_27
+    21300056: Red Lock Sprite Sheet 2_28
+    21300058: Red Lock Sprite Sheet 2_29
+    21300060: Red Lock Sprite Sheet 2_30
+    21300062: Red Lock Sprite Sheet 2_31
+    21300064: Red Lock Sprite Sheet 2_32
+    21300066: Red Lock Sprite Sheet 2_33
+    21300068: Red Lock Sprite Sheet 2_34
+    21300070: Red Lock Sprite Sheet 2_35
+    21300072: Red Lock Sprite Sheet 2_36
+    21300074: Red Lock Sprite Sheet 2_37
+    21300076: Red Lock Sprite Sheet 2_38
+    21300078: Red Lock Sprite Sheet 2_39
+    21300080: Red Lock Sprite Sheet 2_40
+    21300082: Red Lock Sprite Sheet 2_41
+    21300084: Red Lock Sprite Sheet 2_42
+    21300086: Red Lock Sprite Sheet 2_43
+    21300088: Red Lock Sprite Sheet 2_44
+    21300090: Red Lock Sprite Sheet 2_45
+    21300092: Red Lock Sprite Sheet 2_46
+    21300094: Red Lock Sprite Sheet 2_47
+    21300096: Red Lock Sprite Sheet 2_48
+    21300098: Red Lock Sprite Sheet 2_49
+    21300100: Red Lock Sprite Sheet 2_50
+    21300102: Red Lock Sprite Sheet 2_51
+    21300104: Red Lock Sprite Sheet 2_52
+    21300106: Red Lock Sprite Sheet 2_53
+    21300108: Red Lock Sprite Sheet 2_54
+    21300110: Red Lock Sprite Sheet 2_55
+    21300112: Red Lock Sprite Sheet 2_56
+    21300114: Red Lock Sprite Sheet 2_57
+    21300116: Red Lock Sprite Sheet 2_58
+    21300118: Red Lock Sprite Sheet 2_59
+    21300120: Red Lock Sprite Sheet 2_60
+    21300122: Red Lock Sprite Sheet 2_61
+    21300124: Red Lock Sprite Sheet 2_62
+    21300126: Red Lock Sprite Sheet 2_63
+    21300128: Red Lock Sprite Sheet 2_64
+    21300130: Red Lock Sprite Sheet 2_65
+    21300132: Red Lock Sprite Sheet 2_66
+    21300134: Red Lock Sprite Sheet 2_67
+    21300136: Red Lock Sprite Sheet 2_68
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2576
+        width: 254
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2576
+        width: 254
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_2
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2573
+        width: 254
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_3
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2573
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_4
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 2573
+        width: 254
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_5
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 2568
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_6
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2568
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_7
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 2571
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2250
+        width: 256
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2247
+        width: 254
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2247
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_11
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2247
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_12
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 2248
+        width: 257
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_13
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2253
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_14
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2253
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_15
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 2253
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1916
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_17
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1916
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1916
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_19
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1916
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_20
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1916
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_21
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1916
+        width: 257
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_22
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1916
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_23
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1916
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1612
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1612
+        width: 262
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_26
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1612
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_27
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1612
+        width: 257
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_28
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1615
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_29
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1615
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_30
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1615
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_31
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1615
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1300
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1300
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_34
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1300
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1297
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_36
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1297
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_37
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1300
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_38
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1300
+        width: 257
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 960
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_40
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 957
+        width: 257
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_41
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 957
+        width: 254
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_42
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 957
+        width: 257
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_43
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 957
+        width: 257
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_44
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 957
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_45
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 957
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_46
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 957
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 626
+        width: 260
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_48
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 629
+        width: 257
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_49
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 629
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_50
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 629
+        width: 257
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_51
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 626
+        width: 256
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_52
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 626
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_53
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 626
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_54
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 626
+        width: 259
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 327
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_56
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 327
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_57
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 327
+        width: 254
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_58
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 327
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_59
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 327
+        width: 251
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_60
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 327
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_61
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 15
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_62
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 21
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_63
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 21
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_64
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 23
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_65
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 23
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_66
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 23
+        width: 254
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_67
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 26
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red Lock Sprite Sheet 2_68
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 26
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
